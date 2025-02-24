@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
+
+body {
+  padding: 20px;
+  width: 95%;
+}
+
+#sender {
+  text-align: right;
+}
